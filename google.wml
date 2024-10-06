@@ -5,7 +5,7 @@
       <b>Welcome to Google</b><br/>
       Search the world's information.<br/>
       <a href="https://www.google.com">Go to Google</a><br/>
-      <img src="google.png" alt="Google"/>
+      <img src="google.gif" alt="Google"/>
     </p>
   </card>
 </wml>
