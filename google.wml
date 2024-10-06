@@ -1,0 +1,11 @@
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN" "http://www.wapforum.org/DTD/wml_1.1.xml">
+<wml>
+  <card id="card1" title="Google">
+    <p>
+      <b>Welcome to Google</b><br/>
+      Search the world's information.<br/>
+      <a href="https://www.google.com">Go to Google</a><br/>
+      <img src="google.png" alt="Google"/>
+    </p>
+  </card>
+</wml>
