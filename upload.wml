@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN"
+   "http://www.wapforum.org/DTD/wml_1.1.xml">
+
+<wml>
+    <card id="photoUpload" title="Upload Photo">
+        <p>
+            <b>Upload a Photo</b>
+        </p>
+        <p>
+            <input type="file" name="photo" accept="image/*" />
+        </p>
+        <p>
+            <anchor>
+                Upload
+                <go href="upload.php" method="post" enctype="multipart/form-data">
+                    <postfield name="photo" value="$(photo)" />
+                </go>
+            </anchor>
+        </p>
+    </card>
+</wml>
