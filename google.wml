@@ -2,10 +2,11 @@
 <wml>
   <card id="card1" title="Google">
     <p>
+      <img src="google.gif" alt="Google"/>
       <b>Welcome to Google</b><br/>
       Search the world's information.<br/>
       <a href="https://www.google.com">Go to Google</a><br/>
-      <img src="google.gif" alt="Google"/>
+  <p align="center"><input name="search" size="6"/><br/>
     </p>
   </card>
 </wml>
