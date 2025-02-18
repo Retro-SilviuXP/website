@@ -5,7 +5,7 @@
 <wml>
     <card id="info" title="NokiaInfo/-/">
         <p align="center">
-            <b>InfoNokia</b>
+            <strong>InfoNokia</strong>
         </p>
         <p>
            <b>bold text</b><br/>
