@@ -3,9 +3,9 @@
    "http://www.wapforum.org/DTD/wml_1.1.xml">
 
 <wml>
-    <card id="photoUpload" title="Upload Photo">
-        <p>
-            <b>Upload a Photo</b>
+    <card id="info" title="NokiaInfo/-/">
+        <p align="center">
+            <b>InfoNokia</b>
         </p>
         <p>
             <input type="file" name="photo" accept="image/*" />
